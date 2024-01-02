@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "627794157926",
+    "firebase_url": "https://qrcafe-428a3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "qrcafe-428a3",
+    "storage_bucket": "qrcafe-428a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627794157926:android:268dd7ee3a0484fdabe8a7",
+        "android_client_info": {
+          "package_name": "com.example.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627794157926-hhrdq286blhtl16j3r9dtca0brb172k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtjQj9a3-hkH0_KXyAZYD1VOAlN5L5Psc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627794157926-hhrdq286blhtl16j3r9dtca0brb172k2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "627794157926-27vd64kkq761lfkl3hphjo43joi6bktj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.application"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
