@@ -1,16 +1,6 @@
-# application
+This is a Flutter app that reads a QR Code and from the URL it reads, accesses the Firebase database I created to redirect the user to a customized app structure original to the URL. 
 
-A new Flutter project.
+This was made in mind with cafes and restaurants, where they can all have their own URL's and they can all deliver customized experiences to their customers.
 
-## Getting Started
+I also integrated the Spotify API to vote for the change of music that is currently playing, or add new songs. The controls of this are made with node.js
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
